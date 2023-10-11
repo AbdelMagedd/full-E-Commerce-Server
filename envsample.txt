@@ -1,0 +1,14 @@
+MONGO_URI=mongodb+srv://aabdelmageddd:011512211854@cluster0.f0injnn.mongodb.net/E-COMMERCE-PROJECT?retryWrites=true&w=majority
+JWT_SECRET =
+JWT_LIFETIME= 
+
+
+
+
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=465
+EMAIL_USER=
+EMAIL_PASSWORD=
+
+
+SECRET_STRIPE=
